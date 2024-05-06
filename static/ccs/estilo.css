@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+html {
+    font-family: "Ubuntu Sans Mono";
+    background: 882D61;
+}
+
+table {
+    background-color: aliceblue;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
